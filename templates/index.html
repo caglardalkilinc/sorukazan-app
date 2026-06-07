@@ -3,47 +3,37 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tengri Medya - Soru Kazan</title>
+    <title>Tengri Medya - Görev Merkezi</title>
     <style>
-        body { font-family: Arial, sans-serif; text-align: center; background: #f4f4f9; padding: 20px; }
-        .card { background: white; padding: 20px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); max-width: 400px; margin: auto; }
-        input { width: 90%; padding: 10px; margin: 10px 0; border: 1px solid #ddd; border-radius: 5px; }
-        button { background: #28a745; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; }
+        body { font-family: 'Segoe UI', sans-serif; background: #121212; color: white; margin: 0; padding: 15px; }
+        .nav { display: flex; justify-content: space-between; padding: 10px; background: #1e1e1e; border-radius: 10px; }
+        .card { background: #252525; padding: 15px; border-radius: 15px; margin-top: 15px; }
+        .btn { width: 100%; padding: 12px; background: #e91e63; border: none; color: white; border-radius: 10px; margin: 5px 0; cursor: pointer; }
+        .task { border-bottom: 1px solid #444; padding: 10px 0; }
     </style>
 </head>
 <body>
-
-    <div id="login-screen" class="card">
-        <h2>Tengri Medya'ya Hoş Geldin</h2>
-        <input type="text" id="username" placeholder="Adın Soyadın">
-        <input type="tel" id="phone" placeholder="Telefon Numaran">
-        <button onclick="saveUser()">Giriş Yap ve Kazanmaya Başla</button>
+    <div class="nav">
+        <span>Tengri Medya</span>
+        <span>Bakiyen: 0.00 TL</span>
     </div>
 
-    <div id="game-screen" class="card" style="display:none;">
-        <h2 id="welcome-msg"></h2>
-        <div id="question-area">Burada sorular belirecek...</div>
+    <div class="card">
+        <h3>💰 Görev Merkezi</h3>
+        <div class="task">📱 Instagram'da bizi takip et: +0.50 TL</div>
+        <div class="task">🎬 Reklam izle, bakiye kazan: +0.20 TL</div>
+        <button class="btn" onclick="sendProof()">Kanıt Gönder (WhatsApp)</button>
+    </div>
+
+    <div class="card">
+        <h3>⚙️ Ayarlar</h3>
+        <p>İsim: [Çağlar Dalkılınç]</p>
+        <p>IBAN: Henüz tanımlanmadı</p>
     </div>
 
     <script>
-        function saveUser() {
-            const name = document.getElementById('username').value;
-            const phone = document.getElementById('phone').value;
-            if(name && phone) {
-                localStorage.setItem('userName', name);
-                document.getElementById('login-screen').style.display = 'none';
-                document.getElementById('game-screen').style.display = 'block';
-                document.getElementById('welcome-msg').innerText = "Merhaba, " + name;
-            } else {
-                alert("Lütfen tüm alanları doldur!");
-            }
-        }
-        
-        // Eğer daha önce giriş yaptıysa direkt oyunu göster
-        if(localStorage.getItem('userName')) {
-            document.getElementById('login-screen').style.display = 'none';
-            document.getElementById('game-screen').style.display = 'block';
-            document.getElementById('welcome-msg').innerText = "Tekrar Hoş Geldin, " + localStorage.getItem('userName');
+        function sendProof() {
+            window.location.href = "https://wa.me/905XXXXXXXXXX?text=Merhaba, sosyal medya görevini tamamladım, kanıt gönderiyorum.";
         }
     </script>
 </body>
