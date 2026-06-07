@@ -1,1 +1,334 @@
-
+Beşiktaş'ın efsanevi futbolcularından "Şifo" lakaplı oyuncusu kimdir?|Metin Tekin|Ali Gültiken|Mehmet Özdilek|Feyyaz Uçar|C|0.05
+"Hababam Sınıfı" filminde "Hafize Ana" karakterini kim canlandırmıştır?|Adile Naşit|Münir Özkul|Ayşen Gruda|Fatma Girik|A|0.05
+Klasik otomobil serisi Tofaş Şahin'in en üst donanım paketini temsil eden harf hangisidir?|S|L|X|SLX|D|0.05
+Türkiye'nin coğrafi bölge sayısı kaçtır?|5|6|7|8|C|0.50
+Dünyanın en yüksek zirvesi hangisidir?|Everest|K2|Kilimanjaro|Mont Blanc|A|0.05
+İstiklal Marşı'nın şairi kimdir?|Mehmet Akif Ersoy|Namık Kemal|Ziya Gökalp|Yahya Kemal|A|0.05
+Kimyada 'H' simgesi hangi elementi temsil eder?|Helyum|Cıva|Hidrojen|Azot|C|0.10
+İstanbul hangi yıl fethedilmiştir?|1071|1299|1453|1517|C|0.10
+Türkiye Cumhuriyeti'nin ilk cumhurbaşkanı kimdir?|İsmet İnönü|Mustafa Kemal Atatürk|Fevzi Çakmak|Celal Bayar|B|0.10
+İnsan vücudundaki en büyük organ hangisidir?|Karaciğer|Beyin|Deri|Akciğer|C|0.15
+Telefonun mucidi kimdir?|Nikola Tesla|Alexander Graham Bell|Thomas Edison|Albert Einstein|B|0.10
+Hangisi bir iç denizdir?|Akdeniz|Karadeniz|Ege Denizi|Marmara Denizi|D|0.75
+İlk Türk devletlerinde yönetme yetkisinin ilahi kökenli olmasına ne denir?|Töre|Kut|Kurultay|Boy|B|0.10
+Hangisi bir programlama dilidir?|HTML|Python|CSS|XML|B|0.50
+Mona Lisa tablosu hangi ünlü ressama aittir?|Vincent van Gogh|Pablo Picasso|Leonardo da Vinci|Salvador Dali|C|0.20
+Güneş sistemindeki en sıcak gezegen hangisidir?|Merkür|Venüs|Mars|Jüpiter|B|0.15
+Romeo ve Juliet eserinin yazarı kimdir?|William Shakespeare|Victor Hugo|Dostoyevski|Tolstoy|A|0.10
+Suyun donma noktası kaç derecedir?|0|-1|10|100|A|0.50
+Hangisi dünyanın yedi harikasından biridir?|Eyfel Kulesi|Keops Piramidi|Kolezyum|Pisa Kulesi|B|0.25
+Bir üçgenin iç açılarının toplamı kaç derecedir?|90|180|270|360|B|0.20
+Türk lirasının simgesi hangi yıl kabul edilmiştir?|2010|2011|2012|2013|C|0.15
+Magna Carta hangi ülkede imzalanmıştır?|Fransa|Almanya|İngiltere|İtalya|C|0.10
+İlk modern olimpiyatlar hangi şehirde düzenlenmiştir?|Atina|Paris|Londra|Roma|A|0.15
+Akdeniz ile Kızıldeniz'i birbirine bağlayan yapay kanal hangisidir?|Panama Kanalı|Süveyş Kanalı|Kiel Kanalı|Korint Kanalı|B|0.20
+Kuduz aşısını bulan bilim insanı kimdir?|Louis Pasteur|Robert Koch|Alexander Fleming|Marie Curie|A|0.25
+Dünyanın en uzun nehri hangisidir?|Amazon Nehri|Nil Nehri|Mississippi Nehri|Yangtze Nehri|B|0.15
+Don Kişot kitabının yazarı kimdir?|Cervantes|Shakespeare|Goethe|Moliere|A|0.10
+Hangi organ kanı vücuda pompalar?|Akciğer|Karaciğer|Kalp|Böbrek|C|0.20
+Futbolda dünya kupasını en çok kazanan ülke hangisidir?|Almanya|İtalya|Arjantin|Brezilya|D|0.15
+Sinekli Bakkal romanının yazarı kimdir?|Halide Edib Adıvar|Reşat Nuri Güntekin|Yakup Kadri|Peyami Safa|A|0.25
+Elementlerin periyodik tablosunu ilk oluşturan bilim insanı kimdir?|Dmitri Mendeleyev|John Dalton|Niels Bohr|Ernest Rutherford|A|0.10
+Atmosferde en çok bulunan gaz hangisidir?|Oksijen|Azot|Karbondioksit|Hidrojen|B|0.20
+Satranç tahtasında toplam kaç kare bulunur?|32|64|100|128|B|0.20
+Hangi ülke 'Yükselen Güneşin Ülkesi' olarak bilinir?|Çin|Güney Kore|Japonya|Hindistan|C|0.20
+Klasik müzik bestecisi Beethoven hangi ülkenin vatandaşıydı?|Almanya|Avusturya|Fransa|İtalya|A|0.25
+Dünyanın en büyük okyanusu hangisidir?|Atlas Okyanusu|Hint Okyanusu|Büyük Okyanus|Arktik Okyanusu|C|0.20
+Divanü Lügati't-Türk eserinin yazarı kimdir?|Kaşgarlı Mahmud|Yusuf Has Hacib|Edip Ahmet Yükneki|Ahmet Yesevi|A|0.25
+İlk yerli Türk çizgi romanı hangisidir?|Tarkan|Karaoğlan|Köroğlu|Dede Korkut|B|0.30
+Maddenin bilinen kaç temel hali vardır?|2|3|4|5|C|0.25
+Eurovision şarkı yarışmasını Türkiye ilk kez hangi yıl kazanmıştır?|2000|2001|2002|2003|D|0.25
+Işık hızı yaklaşık olarak saniyede kaç kilometredir?|150000|300000|450000|600000|B|0.20
+Hangisi bir kan grubu değildir?|A|B|0|F|D|0.50
+İnce Memed romanının yazarı kimdir?|Yaşar Kemal|Orhan Kemal|Kemal Tahir|Tarık Buğra|A|0.25
+Türkiye'nin plaka kodu 06 olan ili hangisidir?|İzmir|Ankara|Antalya|Bursa|B|0.10
+Dünyanın en küçük kıtası hangisidir?|Avustralya|Avrupa|Antarktika|Asya|A|0.20
+'Sefiller' romanının yazarı kimdir?|Victor Hugo|Balzac|Dostoyevski|Tolstoy|A|0.25
+Türkiye'nin en uzun nehri hangisidir?|Fırat|Kızılırmak|Sakarya|Dicle|B|0.10
+Hangi gezegen 'Kızıl Gezegen' olarak bilinir?|Jüpiter|Venüs|Mars|Satürn|C|0.10
+Periyodik tabloda 'O' simgesi hangi elementi temsil eder?|Oksijen|Altın|Demir|Bakır|A|0.25
+Atatürk'ün doğum yılı kaçtır?|1880|1881|1885|1890|B|0.10
+Türkiye'nin en büyük gölü hangisidir?|Tuz Gölü|Van Gölü|Beyşehir Gölü|Eğirdir Gölü|B|0.20
+Hangi hayvan memeli değildir?|Yunus|Balina|Köpekbalığı|Yarasa|C|0.50
+Roma İmparatorluğu'nun başkenti neresiydi?|Atina|Roma|İstanbul|Paris|B|0.25
+İlk yerli otomobilimizin ismi nedir?|Togg|Devrim|Anadol|Kartal|A|0.25
+Dünyanın en büyük kıtası hangisidir?|Avrupa|Afrika|Asya|Amerika|C|0.10
+Işığın saniyedeki hızı yaklaşık kaç km'dir?|100 bin|300 bin|500 bin|1 milyon|B|0.50
+Hangi şehir 'Lale Devri' ile anılır?|Ankara|İstanbul|Edirne|Bursa|B|0.20
+Türk alfabesinde kaç harf vardır?|28|29|30|32|B|0.10
+E=mc² formülü kime aittir?|Newton|Einstein|Tesla|Hawking|B|0.25
+Hangi vitamin güneş ışığından alınır?|A|B|C|D|D|0.10
+Dünya üzerindeki okyanus sayısı kaçtır?|3|4|5|6|C|0.20
+İstanbul'un eski adı nedir?|Konstantinopolis|Ankara|Bizans|İzmir|A|0.10
+Hangisi bir gezegen değildir?|Plüton|Mars|Venüs|Dünya|A|0.20
+Süpermen hangi gezegendendir?|Mars|Kripton|Venüs|Merkür|B|0.10
+Türkiye'nin en yüksek dağı hangisidir?|Erciyes|Ağrı|Süphan|Kaçkar|B|0.20
+Hangisi bir çiçek türüdür?|Papatya|Çam|Meşe|Kavak|A|0.10
+Futbolda bir takım sahaya kaç kişiyle çıkar?|9|10|11|12|C|0.10
+Hangi ülke İskandinavya'da değildir?|İsveç|Norveç|Danimarka|İtalya|D|0.25
+Dünyanın en kalabalık ülkesi hangisidir?|Hindistan|Çin|ABD|Rusya|A|0.20
+Hangisi bir 'İl' değildir?|Bodrum|İzmir|Van|Artvin|A|0.10
+Nobel ödülleri hangi ülkede verilir?|Fransa|İsveç|İsviçre|Almanya|B|0.50
+Piyanoda kaç tuş vardır?|80|88|90|92|B|0.25
+Telefonu kim icat etti?|Edison|Bell|Tesla|Marconi|B|0.10
+Dünyanın en derin noktası neresidir?|Mariana Çukuru|Büyük Kanyon|Everest|Ölü Deniz|A|0.50
+Hangi renklerin karışımı yeşildir?|Mavi-Sarı|Kırmızı-Sarı|Mavi-Kırmızı|Siyah-Beyaz|A|0.20
+Kuyruklu yıldızların en ünlüsü hangisidir?|Halley|Hale-Bopp|Swift|Hyakutake|A|0.25
+Hangisi bir kuş türü değildir?|Penguen|Devekuşu|Yarasa|Kartal|C|0.20
+İstiklal Marşımızı kim besteledi?|Zeki Üngör|Mehmet Akif|Adnan Saygun|Hacı Arif Bey|A|0.10
+Hangi ülke Avrupa kıtasındadır?|Japonya|Almanya|Brezilya|Mısır|B|0.10
+Güneş sisteminin merkezi nedir?|Dünya|Ay|Güneş|Mars|C|0.10
+Hangisi bir 'Meyve' değildir?|Domates|Salatalık|Patates|Biber|C|0.20
+Dünya kaç kıtadan oluşur?|5|6|7|8|C|0.10
+Hangi madde suda batar?|Demir|Tahta|Plastik|Mantara|A|0.10
+Türkiye'nin sınır komşusu değildir?|Yunanistan|İran|Irak|Mısır|D|0.20
+Kömür bir ... kaynağıdır?|Yenilenebilir|Fosil|Rüzgar|Güneş|B|0.10
+Deniz seviyesinde su kaç derecede kaynar?|80|90|100|110|C|0.10
+Hangisi kış mevsimi ayıdır?|Haziran|Ocak|Nisan|Eylül|B|0.10
+Hangi hayvan etle beslenmez?|Aslan|Kurt|İnek|Kaplan|C|0.10
+Dünyanın uydusu hangisidir?|Güneş|Mars|Ay|Jüpiter|C|0.10
+Hangi renk 'sıcak' kabul edilir?|Mavi|Yeşil|Kırmızı|Beyaz|C|0.10
+Çay hangi bölgede yetişir?|Ege|Karadeniz|Marmara|Akdeniz|B|0.10
+Türkiye'nin başkenti neresidir?|İstanbul|Ankara|İzmir|Bursa|B|0.10
+Hangi meyve turuncudur?|Elma|Muz|Portakal|Üzüm|C|0.10
+Dairenin alanı nasıl bulunur?|pi*r*r|pi*r|2*pi*r|r*r|A|0.25
+Hangi organımızla duyarız?|Göz|Burun|Kulak|Dil|C|0.10
+Atatürk nerede doğdu?|Ankara|Selanik|İstanbul|İzmir|B|0.10
+Kaç gün bir haftadır?|5|6|7|8|C|0.10
+Hangi ay 28 çeker?|Ocak|Şubat|Mart|Nisan|B|0.10
+Su neyden oluşur?|H2O|CO2|O2|N2|A|0.10
+Hangisi bir yazılım dilidir?|Java|Microsoft|Windows|Chrome|A|0.25
+Dünyanın en yüksek binası nerededir?|Dubai|New York|Tokyo|Londra|A|0.50
+Hangi kıtada çöl yoktur?|Asya|Avrupa|Afrika|Avustralya|B|0.25
+Türkiye kaç bölgeden oluşur?|5|6|7|8|C|0.10
+Hangi hayvanın sesi miyavdır?|Köpek|Kedi|Kuş|At|B|0.10
+Işık nedir?|Madde|Enerji|Sıvı|Gaz|B|0.20
+Müziğin temeli nedir?|Ses|Ritim|Söz|Enstrüman|A|0.10
+Hangisi bir içecek değildir?|Su|Ayran|Ekmek|Çay|C|0.10
+Hangi gezegen halkalıdır?|Mars|Venüs|Satürn|Merkür|C|0.20
+Hangisi uçabilen bir memelidir?|Kuş|Yarasa|Arı|Kelebek|B|0.20
+Türkiye'nin en uzun sınır kapısı hangisidir?|Sarp|Habur|Kapıkule|Gürbulak|C|0.50
+Dünyanın en kalabalık şehri hangisidir?|Tokyo|İstanbul|New York|Londra|A|0.50
+Hangi mevsimde yapraklar dökülür?|İlkbahar|Yaz|Sonbahar|Kış|C|0.10
+Hangi hayvan en hızlı koşar?|Aslan|Çita|At|Zebra|B|0.20
+Telefonun tuşları neye yarar?|Konuşma|Yazma|Arama|Resim|C|0.10
+Dünya kendi etrafında ne kadar sürede döner?|12 saat|24 saat|30 gün|365 gün|B|0.10
+Hangi renk huzur verir?|Kırmızı|Mavi|Sarı|Siyah|B|0.10
+Türkiye'de kaç il vardır?|80|81|82|85|B|0.10
+Hangi ülke Asya'dadır?|Fransa|İtalya|Çin|Kanada|C|0.10
+Hangi organ nefes almamızı sağlar?|Kalp|Akciğer|Mide|Böbrek|B|0.10
+Dünyanın uydusu Ay'a ilk kim ayak bastı?|Armstrong|Gagarin|Tereshkova|Glenn|A|0.50
+Hangi meyve sarıdır?|Elma|Muz|Erik|Çilek|B|0.10
+Hangisi bir sebzedir?|Elma|Ispanak|Üzüm|Armut|B|0.10
+Türkiye'nin en meşhur kebap şehri neresidir?|Adana|Ankara|İzmir|Bursa|A|0.10
+Hangi mevsimden sonra yaz gelir?|Kış|İlkbahar|Sonbahar|Yaz|B|0.10
+Hangi element suyla tepkimeye girer?|Altın|Gümüş|Sodyum|Bakır|C|0.50
+Hangisi bir müzik aleti değildir?|Gitar|Keman|Kitap|Piyano|C|0.10
+Hangi şehirde kule vardır?|Paris|Roma|Tokyo|New York|A|0.20
+Türkiye'nin kuzeyindeki deniz hangisidir?|Ege|Akdeniz|Karadeniz|Marmara|C|0.10
+Dünyanın en zengin insanı kimdir?|Musk|Gates|Bezos|Buffett|A|0.25
+Hangi kıtada piramitler vardır?|Asya|Afrika|Avrupa|Güney Amerika|B|0.20
+Hangisi bir 'Sayı' değildir?|Bir|İki|Elma|Dört|C|0.10
+Atatürk'ün annesinin adı nedir?|Zübeyde|Latife|Makbule|Ayşe|A|0.10
+Türkiye'nin plaka kodu 34 olan ili?|Ankara|İzmir|İstanbul|Bursa|C|0.10
+Hangi hayvan süt verir?|Tavuk|İnek|Timsah|Balık|B|0.10
+Hangi mevsimde kar yağar?|Yaz|Kış|Bahar|Sonbahar|B|0.10
+Hangisi bir spor dalıdır?|Yüzme|Kitap|Çay|Piyano|A|0.10
+İnsan kalbi kaç odacıklıdır?|2|3|4|5|C|0.50
+Dünyanın en soğuk kıtası hangisidir?|Asya|Avrupa|Antarktika|Afrika|C|0.25
+Hangisi ışık kaynağı değildir?|Güneş|Lamba|Ayna|Ateş|C|0.20
+Hangi ülke Türkiye'nin batısındadır?|İran|Irak|Yunanistan|Suriye|C|0.10
+Hangi organımız düşünmemizi sağlar?|Kalp|Beyin|Mide|Böbrek|B|0.10
+Hangi ayda okul açılır?|Ocak|Eylül|Mayıs|Haziran|B|0.10
+Hangisi bir 'Kuş' değildir?|Serçe|Kartal|Timsah|Papağan|C|0.10
+Türkiye'nin plaka kodu 01 olan ili hangisidir?|Adana|Ankara|İzmir|Bursa|A|0.10
+Dünyanın en yüksek dağı hangisidir?|Everest|K2|Kilimanjaro|Ağrı|A|0.25
+Hangi elementin simgesi 'Au'dur?|Gümüş|Bakır|Altın|Demir|C|0.50
+Türkiye'nin başkenti neresidir?|İstanbul|Ankara|İzmir|Antalya|B|0.10
+Hangi gezegenin etrafında belirgin halkalar vardır?|Mars|Venüs|Satürn|Jüpiter|C|0.20
+İstiklal Marşı'mızın bestecisi kimdir?|Zeki Üngör|Mehmet Akif|Adnan Saygun|Hacı Arif Bey|A|0.10
+Hangi hayvanın sesi 'hav'dır?|Kedi|Köpek|Kuş|At|B|0.10
+Türkiye'nin en uzun nehri hangisidir?|Kızılırmak|Fırat|Sakarya|Dicle|A|0.10
+Piyano kaç tuşludur?|64|72|88|92|C|0.25
+Dünyanın uydusu nedir?|Güneş|Mars|Ay|Jüpiter|C|0.10
+Hangisi bir kış ayıdır?|Haziran|Ocak|Nisan|Eylül|B|0.10
+Hangi meyve turuncudur?|Muz|Elma|Portakal|Üzüm|C|0.10
+Hangi organımız kanı pompalar?|Akciğer|Kalp|Mide|Karaciğer|B|0.10
+Kaç gün bir haftadır?|5|6|7|8|C|0.10
+Hangisi bir yazılım dilidir?|Java|Microsoft|Chrome|Windows|A|0.25
+Hangi ülke İskandinavya'dadır?|İtalya|Norveç|Yunanistan|İspanya|B|0.20
+Nobel ödülleri hangi şehirde verilir?|Paris|Londra|Stockholm|Roma|C|0.50
+Hangi ay 28 çeker?|Ocak|Şubat|Mart|Nisan|B|0.10
+Türkiye'de kaç bölge vardır?|5|6|7|8|C|0.10
+Işık hızı saniyede kaç km'dir?|100bin|300bin|500bin|1milyon|B|0.50
+Mona Lisa tablosunu kim yaptı?|Picasso|Da Vinci|Van Gogh|Dali|B|0.50
+Hangisi bir sebzedir?|Elma|Üzüm|Ispanak|Erik|C|0.10
+Telefonu kim icat etti?|Edison|Bell|Tesla|Marconi|B|0.10
+Su hangi sıcaklıkta kaynar?|80|90|100|110|C|0.10
+Hangi hayvan memeli değildir?|Yunus|Balina|Köpekbalığı|İnsan|C|0.25
+Dünyanın en büyük kıtası nedir?|Asya|Avrupa|Afrika|Amerika|A|0.10
+Hangi renklerin karışımı yeşildir?|Mavi-Sarı|Kırmızı-Mavi|Sarı-Kırmızı|Siyah-Beyaz|A|0.20
+Türkiye'nin sınır komşusu değildir?|Suriye|İran|Mısır|Irak|C|0.10
+Hangisi bir kuş değildir?|Serçe|Kartal|Timsah|Papağan|C|0.10
+Atatürk nerede doğdu?|Ankara|Selanik|İstanbul|İzmir|B|0.10
+Dairenin alanı formülü nedir?|pi*r*r|2*pi*r|pi*r|r*r|A|0.50
+E=mc² formülünü kim buldu?|Newton|Einstein|Tesla|Hawking|B|0.25
+Hangi vitamin güneşten alınır?|A|B|C|D|D|0.10
+Hangi hayvan etle beslenmez?|Aslan|Kurt|İnek|Kaplan|C|0.10
+Hangi ülke Asya'dadır?|Almanya|İtalya|Çin|Brezilya|C|0.10
+Dünya kendi etrafında ne kadar sürede döner?|12 saat|24 saat|30 gün|365 gün|B|0.10
+Hangi organ nefes almamızı sağlar?|Kalp|Akciğer|Mide|Böbrek|B|0.10
+Hangi meyve sarıdır?|Elma|Muz|Çilek|Erik|B|0.10
+Hangisi bir spor dalıdır?|Yüzme|Kitap|Çay|Müzik|A|0.10
+Hangi gezegen 'kızıl'dır?|Mars|Venüs|Jüpiter|Merkür|A|0.10
+Hangisi bir müzik aleti değildir?|Gitar|Keman|Kitap|Piyano|C|0.10
+Türkiye'nin kuzeyindeki deniz hangisidir?|Ege|Akdeniz|Karadeniz|Marmara|C|0.10
+Hangisi bir 'Sayı' değildir?|Bir|İki|Elma|Dört|C|0.10
+Türkiye'nin plaka kodu 34 olan ili?|Ankara|İzmir|İstanbul|Bursa|C|0.10
+Hangi mevsimde kar yağar?|Yaz|Kış|Bahar|Sonbahar|B|0.10
+Hangi ayda okul açılır?|Ocak|Eylül|Mayıs|Haziran|B|0.10
+Hangisi bir gezegen değildir?|Plüton|Mars|Venüs|Dünya|A|0.20
+Süpermen hangi gezegendendir?|Mars|Kripton|Venüs|Merkür|B|0.10
+Dünya kaç kıtadan oluşur?|5|6|7|8|C|0.10
+Hangi madde suda batar?|Demir|Tahta|Plastik|Mantar|A|0.10
+Kömür bir ... kaynağıdır?|Yenilenebilir|Fosil|Rüzgar|Güneş|B|0.10
+Hangi mevsimden sonra yaz gelir?|Kış|İlkbahar|Sonbahar|Yaz|B|0.10
+Hangi element suyla tepkimeye girer?|Altın|Gümüş|Sodyum|Bakır|C|0.50
+Hangi şehirde kule vardır?|Paris|Roma|Tokyo|New York|A|0.20
+Dünyanın en zengin insanı kimdir?|Musk|Gates|Bezos|Buffett|A|0.25
+Hangi kıtada piramitler vardır?|Asya|Afrika|Avrupa|Amerika|B|0.20
+Atatürk'ün annesinin adı nedir?|Zübeyde|Latife|Makbule|Ayşe|A|0.10
+Hangi hayvan süt verir?|Tavuk|İnek|Timsah|Balık|B|0.10
+İnsan kalbi kaç odacıklıdır?|2|3|4|5|C|0.50
+Dünyanın en soğuk kıtası hangisidir?|Asya|Avrupa|Antarktika|Afrika|C|0.25
+Hangisi ışık kaynağı değildir?|Güneş|Lamba|Ayna|Ateş|C|0.20
+Hangi ülke Türkiye'nin batısındadır?|İran|Irak|Yunanistan|Suriye|C|0.10
+Hangi organımız düşünmemizi sağlar?|Kalp|Beyin|Mide|Böbrek|B|0.10
+Hangisi bir kedi türüdür?|Aslan|Kurt|İnek|Koyun|A|0.20
+Türkiye'nin en meşhur kebap şehri?|Adana|Ankara|İzmir|Bursa|A|0.10
+Hangi ülke 'Yükselen Güneş'tir?|Çin|Japonya|Kore|Hindistan|B|0.10
+Klasik müzik bestecisi kimdir?|Beethoven|Tesla|Edison|Einstein|A|0.25
+Dünyanın en büyük okyanusu nedir?|Atlas|Hint|Büyük|Arktik|C|0.10
+Divanü Lügati't-Türk yazarı kimdir?|Kaşgarlı|Yusuf|Ahmet|Yesevi|A|0.75
+Maddenin kaç hali vardır?|2|3|4|5|B|0.10
+Eurovision'u Türkiye hangi yıl kazandı?|2000|2001|2002|2003|D|0.75
+Hangi kan grubu değildir?|A|B|0|F|D|0.10
+İnce Memed yazarı kimdir?|Yaşar Kemal|Orhan Kemal|Kemal Tahir|Tarık Buğra|A|0.25
+Türkiye'nin 06 plakası neresidir?|Ankara|İzmir|Bursa|Konya|A|0.10
+Hangi kıta en küçüktür?|Avustralya|Avrupa|Asya|Afrika|A|0.10
+Sefiller romanı yazarı?|Hugo|Balzac|Dostoyevski|Tolstoy|A|0.20
+Türkiye'nin en uzun nehri?|Fırat|Kızılırmak|Sakarya|Dicle|B|0.10
+Kızıl gezegen hangisidir?|Jüpiter|Venüs|Mars|Satürn|C|0.10
+O simgesi nedir?|Oksijen|Altın|Demir|Bakır|A|0.10
+Atatürk doğum yılı?|1880|1881|1885|1890|B|0.10
+Türkiye'nin en büyük gölü?|Tuz|Van|Beyşehir|Eğirdir|B|0.10
+Yarasa nedir?|Kuş|Memeli|Sürüngen|Böcek|B|0.10
+Roma başkenti neresiydi?|Atina|Roma|İstanbul|Paris|B|0.10
+İlk yerli otomobil ismi?|Togg|Devrim|Anadol|Kartal|B|0.10
+En büyük kıta hangisi?|Avrupa|Afrika|Asya|Amerika|C|0.10
+Lale Devri şehri?|Ankara|İstanbul|Edirne|Bursa|B|0.10
+Türk alfabesi harf sayısı?|28|29|30|32|B|0.10
+İstiklal marşı yazarı?|Mehmet Akif|Namık Kemal|Ziya|Yahya|A|0.10
+Hangi vitamin D?|A|B|C|D|D|0.10
+Okyanus sayısı kaçtır?|3|4|5|6|C|0.10
+İstanbul eski adı?|Konstantinopolis|Ankara|Bizans|İzmir|A|0.10
+Hangisi bir gezegen?|Mars|Ay|Güneş|Yıldız|A|0.10
+Ağrı dağı nerede?|Ağrı|Van|Iğdır|Kars|A|0.10
+Hangisi çiçek?|Papatya|Çam|Meşe|Kavak|A|0.10
+Futbol takım kişisi?|9|10|11|12|C|0.10
+İskandinav değil?|İsveç|Norveç|Danimarka|İtalya|D|0.10
+Dünya kalabalık ülke?|Hindistan|Çin|ABD|Rusya|B|0.10
+İl olmayan?|Bodrum|İzmir|Van|Artvin|A|0.10
+Nobel hangi ülkede?|Fransa|İsveç|İsviçre|Almanya|B|0.25
+Piyano tuş sayısı?|80|88|90|92|B|0.10
+Telefonu kim icat etti?|Edison|Bell|Tesla|Marconi|B|0.10
+Mariana çukuru nedir?|Deniz|Kanyon|Dağ|Göl|A|0.25
+Yeşil renk nasıl olur?|Mavi-Sarı|Kırmızı-Sarı|Mavi-Kırmızı|Siyah-Beyaz|A|0.10
+Halley nedir?|Yıldız|Kuyruklu Yıldız|Gezegen|Uydu|B|0.10
+Penguen nedir?|Kuş|Balık|Memeli|Sürüngen|A|0.10
+Almanya hangi kıtada?|Asya|Avrupa|Afrika|Amerika|B|0.10
+Güneş sistemi merkezi?|Dünya|Ay|Güneş|Mars|C|0.10
+Domates nedir?|Meyve|Sebze|Tahıl|Et|A|0.10
+Hangi madde suda batar?|Demir|Tahta|Plastik|Mantar|A|0.10
+Kış ayı hangisi?|Haziran|Ocak|Nisan|Eylül|B|0.10
+En hızlı hayvan hangisi?|Aslan|Çita|At|Zebra|B|0.10
+Dünya kendi etrafında turu?|12saat|24saat|30gün|365gün|B|0.10
+Huzur veren renk?|Kırmızı|Mavi|Sarı|Siyah|B|0.10
+Türkiye il sayısı?|80|81|82|85|B|0.10
+Çin hangi kıtada?|Fransa|İtalya|Çin|Kanada|C|0.10
+Ay'a ilk ayak basan?|Armstrong|Gagarin|Tereshkova|Glenn|A|0.25
+Muz rengi nedir?|Yeşil|Mavi|Sarı|Kırmızı|C|0.10
+Ispanak nedir?|Meyve|Sebze|Tahıl|Et|B|0.10
+Adana neyi meşhur?|Kebap|Lahmacun|Baklava|Döner|A|0.10
+Sodyum suyla ne olur?|Yanar|Donar|Uçar|Batar|A|0.25
+Gitar nedir?|Müzik Aleti|Kitap|Çay|Piyano|A|0.10
+Paris neyi meşhur?|Kule|Dağ|Deniz|Çöl|A|0.10
+Karadeniz nerede?|Kuzey|Güney|Doğu|Batı|A|0.10
+Zengin insan?|Musk|Gates|Bezos|Buffett|A|0.10
+Piramitler nerede?|Asya|Afrika|Avrupa|Amerika|B|0.10
+Sayı olmayanı seç?|Bir|İki|Elma|Dört|C|0.10
+Zübeyde hanım kim?|Anne|Eş|Kardeş|Kız|A|0.10
+İnek ne verir?|Süt|Yumurta|Et|Yün|A|0.10
+Kar ne zaman yağar?|Yaz|Kış|Bahar|Sonbahar|B|0.10
+Yüzme nedir?|Spor|Kitap|Çay|Piyano|A|0.10
+İnsan kalbi odacık?|2|3|4|5|C|0.25
+Antarktika özelliği?|Sıcak|Soğuk|Nemli|Kurak|B|0.10
+Ayna nedir?|Işık kaynağı|Yansıtıcı|Madde|Gaz|B|0.10
+Yunanistan nerede?|Doğu|Batı|Kuzey|Güney|B|0.10
+Beyin neye yarar?|Düşünme|Pompa|Sindirime|Filtre|A|0.10
+Eylül neyin başlangıcı?|Okul|Tatil|Yaz|Kış|A|0.10
+Timsah kuş mu?|Evet|Hayır|Bazen|Bilmem|B|0.10
+Python nedir?|Dil|Yazılım|Donanım|Oyun|A|0.25
+Everest nerede?|Asya|Afrika|Avrupa|Amerika|A|0.10
+Altın simgesi?|Au|Ag|Cu|Fe|A|0.25
+Ankara nerede?|İç Anadolu|Ege|Marmara|Akdeniz|A|0.10
+Satürn halkalı mı?|Evet|Hayır|Bilmem|Belki|A|0.10
+Zeki Üngör ne yaptı?|Marş|Resim|Heykel|Şarkı|A|0.10
+Köpek sesi?|Miyav|Hav|Cik|Möö|B|0.10
+Fırat nerede akar?|Türkiye|Almanya|İtalya|Fransa|A|0.10
+Piyano tuş rengi?|Siyah-Beyaz|Kırmızı|Mavi|Sarı|A|0.10
+Ay'ın ışığı nerden?|Güneş|Mars|Dünya|Yıldız|A|0.10
+Ocak nedir?|Ay|Mevsim|Yıl|Gün|A|0.10
+Portakal rengi?|Yeşil|Turuncu|Mavi|Sarı|B|0.10
+Kalp ne yapar?|Kan pompalar|Yemek yer|Nefes alır|Düşünür|A|0.10
+Hafta kaç gün?|5|6|7|8|C|0.10
+Java nedir?|Dil|Yemek|Araba|Şehir|A|0.10
+Norveç neresi?|Asya|Avrupa|Afrika|Amerika|B|0.10
+Stockholm nerenin başkenti?|İsveç|Norveç|Danimarka|İtalya|A|0.10
+Şubat kaç çeker?|28|30|31|29|A|0.10
+Bölge sayısı?|5|6|7|8|C|0.10
+Işık hızı?|100bin|300bin|500bin|1milyon|B|0.25
+Picasso neci?|Ressam|Şarkıcı|Sporcu|Yazar|A|0.10
+Ispanak nerede yetişir?|Bahçe|Deniz|Çöl|Dağ|A|0.10
+Edison neyi icat etti?|Ampul|Telefon|Televizyon|Radyo|A|0.10
+Su neyden oluşur?|H2O|CO2|O2|N2|A|0.10
+Yunus nedir?|Balık|Memeli|Kuş|Sürüngen|B|0.10
+Asya en büyük mü?|Evet|Hayır|Belki|Bilmem|A|0.10
+Mavi-Sarı karışımı?|Yeşil|Mor|Turuncu|Siyah|A|0.10
+Suriye komşumuz mu?|Evet|Hayır|Bilmem|Belki|A|0.10
+Serçe nedir?|Kuş|Balık|Memeli|Böcek|A|0.10
+Selanik nerede?|Türkiye|Yunanistan|İtalya|Almanya|B|0.10
+Daire alan formülü?|pi*r*r|2*pi*r|pi*r|r*r|A|0.25
+Einstein neci?|Fizikçi|Şarkıcı|Sporcu|Yazar|A|0.10
+D vitamin kaynağı?|Güneş|Su|Yemek|Uyku|A|0.10
+İnek sesi?|Möö|Hav|Miyav|Cik|A|0.10
+Çin başkenti?|Pekin|Tokyo|Seul|Bangkok|A|0.10
+Neil Armstrong ne yaptı?|Ay'a bastı|Araba sürdü|Uçtu|Yüzdü|A|0.25
+Muz rengi?|Sarı|Yeşil|Mavi|Kırmızı|A|0.10
+Ispanak nedir?|Sebze|Meyve|Et|Tahıl|A|0.10
+Adana meşhur?|Kebap|Pizza|Döner|Lahmacun|A|0.10
+Sodyum neci?|Metal|Gaz|Sıvı|Plastik|A|0.25
+Gitar kaç telli?|6|4|5|8|A|0.10
+Paris hangi kule?|Eyfel|Pisa|Kız|Galata|A|0.10
+Karadeniz nerede?|Kuzey|Güney|Doğu|Batı|A|0.10
+Bezos kim?|Zengin|Fakir|Sporcu|Artist|A|0.10
+Piramit nerede?|Mısır|Türkiye|İran|Irak|A|0.10
+Elma nedir?|Meyve|Sebze|Et|Tahıl|A|0.10
+Zübeyde hanım neci?|Anne|Eş|Kardeş|Kız|A|0.10
+İnek nedir?|Memeli|Balık|Kuş|Böcek|A|0.10
+Kar rengi?|Beyaz|Siyah|Mavi|Kırmızı|A|0.10
+Yüzme nerede yapılır?|Havuz|Dağ|Çöl|Orman|A|0.10
+İnsan kalbi kaç odacık?|4|2|3|5|A|0.10
+Antarktika neresi?|Kutuplar|Çöl|Deniz|Orman|A|0.10
+Ayna ne yapar?|Yansıtır|Eritir|Yutar|Uçar|A|0.10
+Yunanistan nerede?|Batı|Doğu|Kuzey|Güney|A|0.10
