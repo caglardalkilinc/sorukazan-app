@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soru Çöz - Para Kazan</title>
+    <style>
+        * { box-sizing: border-box; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; padding: 0; }
+        body { background-color: #f0f2f5; display: flex; justify-content: center; align-items: center; min-height: 100vh; color: #333; }
+        .phone-container { width: 100%; max-width: 410px; height: 840px; background-color: #ffffff; border-radius: 30px; box-shadow: 0 10px 25px rgba(0,0,0,0.15); overflow: hidden; display: flex; flex-direction: column; border: 8px solid #222; }
+        .header { background: linear-gradient(135deg, #1e3c72, #2a5298); color: white; padding: 20px; text-align: center; border-bottom-left-radius: 20px; border-bottom-right-radius: 20px; }
+        .profile-box { display: flex; justify-content: space-between; align-items: center; margin-top: 10px; background: rgba(255,255,255,0.1); padding: 10px 15px; border-radius: 12px; }
+        .balance { font-weight: bold; color: #00ffcc; font-size: 1.1rem; }
+        .content { flex: 1; padding: 20px; display: flex; flex-direction: column; justify-content: center; }
+        .question-card { background: #f8f9fa; border: 2px solid #e9ecef; border-radius: 16px; padding: 20px; margin-bottom: 25px; min-height: 150px; display: flex; align-items: center; justify-content: center; text-align: center; font-size: 1.1rem; font-weight: 600; box-shadow: inset 0 2px 4px rgba(0,0,0,0.02); }
+        .options-container { display: flex; flex-direction: column; gap: 12px; }
+        .option-btn { background-color: white; border: 2px solid #cbd5e1; border-radius: 12px; padding: 15px; text-align: left; font-size: 1rem; cursor: pointer; transition: all 0.2s; font-weight: 500; }
+        .option-btn:hover { border-color: #2a5298; background-color: #f0f4fc; }
+        .option-btn.correct { background-color: #10b981 !important; color: white; border-color: #10b981; }
+        .option-btn.wrong { background-color: #ef4444 !important; color: white; border-color: #ef4444; }
+        .ad-banner { background-color: #222; color: #fff; text-align: center; padding: 12px; font-size: 0.85rem; font-weight: bold; letter-spacing: 1px; }
+        
+        /* Reklam Modalı */
+        .ad-modal { display: none; position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.95); z-index: 999; color: white; flex-direction: column; justify-content: center; align-items: center; padding: 30px; text-align: center; }
+        .ad-timer { font-size: 3rem; font-weight: bold; color: #ffcc00; margin: 20px 0; }
+    </style>
+</head>
+<body>
+
+    <div class="phone-container">
+        <div class="header">
+            <h2>Kazanma Vakti</h2>
+            <div class="profile-box">
+                <span id="username">Yükleniyor...</span>
+                <span class="balance" id="balance">0.00 TL</span>
+            </div>
+        </div>
+
+        <div class="ad-banner">SPONSORLU REKLAM ALANI</div>
+
+        <div class="content" id="game-area">
+            <div class="question-card" id="question-text">Soru yükleniyor...</div>
+            <div class="options-container" id="options-box">
+                </div>
+        </div>
+
+        <div class="ad-modal" id="ad-modal">
+            <h3>Sponsorlu Video Reklam</h3>
+            <p>Sonraki soru kilidini açmak için reklamı izleyin...</p>
+            <div class="ad-timer" id="ad-countdown">5</div>
+            <p style="font-size: 0.8rem; color: #aaa;">Reklam bitene kadar uygulamadan ayrılmayın.</p>
+        </div>
+    </div>
+
+    <script>
+        const KULLANICI_ID = 1;
+        let mevcutSoruId = 1;
+
+        // Kullanıcı verilerini güncelle
+        async function kullaniciBilgisiGetir() {
+            const res = await fetch(`/api/kullanici/${KULLANICI_ID}`);
+            const data = await res.json();
+            document.getElementById('username').innerText = "@" + data.kullanici_adi;
+            document.getElementById('balance').innerText = data.bakiye.toFixed(2) + " TL";
+        }
+
+        // Sıradaki soruyu ekrana getir
+        async function soruGetir() {
+            const res = await fetch(`/api/soru/${mevcutSoruId}`);
+            const data = await res.json();
+
+            if (data.bitti) {
+                document.getElementById('game-area').innerHTML = `
+                    <div class="question-card" style="background:#d1fae5; border-color:#10b981;">
+                        🎉 ${data.mesaj}<br><br>Bakiyenizi yukarıdan kontrol edebilirsiniz. Yeni sorular yakında eklenecektir!
+                    </div>`;
+                return;
+            }
+
+            document.getElementById('question-text').innerText = data.soru_metni;
+            const optionsBox = document.getElementById('options-box');
+            optionsBox.innerHTML = '';
+
+            // Seçenek butonlarını oluştur
+            for (let anahtar in data.secenekler) {
+                const btn = document.createElement('button');
+                btn.className = 'option-btn';
+                btn.innerText = `${anahtar}) ${data.secenekler[anahtar]}`;
+                btn.onclick = () => cevapGonder(anahtar, btn);
+                optionsBox.appendChild(btn);
+            }
+        }
+
+        // Cevabı arka plana gönderip doğrula
+        async function cevapGonder(secenek, secilenButon) {
+            // Diğer butonları kilitle
+            const butonlar = document.querySelectorAll('.option-btn');
+            butonlar.forEach(b => b.disabled = true);
+
+            const res = await fetch('/api/cevapla', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                    kullanici_id: KULLANICI_ID,
+                    soru_id: mevcutSoruId,
+                    secilen_secenek: secenek
+                })
+            });
+            const data = await res.json();
+
+            if (data.durum === 'dogru') {
+                secilenButon.classList.add('correct');
+            } else {
+                secilenButon.classList.add('wrong');
+            }
+
+            // Bakiyeyi güncelle ve reklamı tetikle
+            setTimeout(() => {
+                kullaniciBilgisiGetir();
+                reklamGoster();
+            }, 1500);
+        }
+
+        // Ödüllü Geçiş Reklamı Simülasyonu (AdMob mantığı)
+        function reklamGoster() {
+            const modal = document.getElementById('ad-modal');
+            const countdownEl = document.getElementById('ad-countdown');
+            modal.style.display = 'flex';
+            
+            let kalanSure = 5;
+            countdownEl.innerText = kalanSure;
+
+            const sayac = setInterval(() => {
+                kalanSure--;
+                countdownEl.innerText = kalanSure;
+                if (kalanSure <= 0) {
+                    clearInterval(sayac);
+                    modal.style.display = 'none';
+                    // Reklam bitti, sonraki soruya geç
+                    mevcutSoruId++;
+                    soruGetir();
+                }
+            }, 1000);
+        }
+
+        // Uygulamayı başlat
+        kullaniciBilgisiGetir();
+        soruGetir();
+    </script>
+</body>
+</html>
