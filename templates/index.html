@@ -3,38 +3,37 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tengri Medya - Görev Merkezi</title>
+    <title>Çağlar Dalkılınç | Görev Merkezi</title>
     <style>
-        body { font-family: 'Segoe UI', sans-serif; background: #121212; color: white; margin: 0; padding: 15px; }
-        .nav { display: flex; justify-content: space-between; padding: 10px; background: #1e1e1e; border-radius: 10px; }
-        .card { background: #252525; padding: 15px; border-radius: 15px; margin-top: 15px; }
-        .btn { width: 100%; padding: 12px; background: #e91e63; border: none; color: white; border-radius: 10px; margin: 5px 0; cursor: pointer; }
-        .task { border-bottom: 1px solid #444; padding: 10px 0; }
+        :root { --accent: #6200ea; --bg: #0f172a; --card: #1e293b; }
+        body { font-family: 'Inter', sans-serif; background: var(--bg); color: white; margin: 0; padding: 20px; }
+        .header { text-align: center; margin-bottom: 20px; }
+        .avatar { width: 80px; height: 80px; background: var(--accent); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; font-size: 24px; font-weight: bold; }
+        .card { background: var(--card); padding: 20px; border-radius: 20px; margin-bottom: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.3); }
+        .btn-wa { background: #25D366; color: white; padding: 15px; border-radius: 12px; text-decoration: none; display: block; text-align: center; font-weight: bold; }
+        .task-list { list-style: none; padding: 0; }
+        .task-item { background: #334155; padding: 15px; border-radius: 10px; margin-bottom: 10px; display: flex; justify-content: space-between; }
     </style>
 </head>
 <body>
-    <div class="nav">
-        <span>Tengri Medya</span>
-        <span>Bakiyen: 0.00 TL</span>
+    <div class="header">
+        <div class="avatar">ÇD</div>
+        <h2>Çağlar Dalkılınç</h2>
+        <p>Dijital Görev ve Kazanç Portalı</p>
     </div>
 
     <div class="card">
-        <h3>💰 Görev Merkezi</h3>
-        <div class="task">📱 Instagram'da bizi takip et: +0.50 TL</div>
-        <div class="task">🎬 Reklam izle, bakiye kazan: +0.20 TL</div>
-        <button class="btn" onclick="sendProof()">Kanıt Gönder (WhatsApp)</button>
+        <h3>💰 Cüzdan Bakiyen</h3>
+        <h1 id="balance" style="color: #10b981;">0.00 TL</h1>
     </div>
 
     <div class="card">
-        <h3>⚙️ Ayarlar</h3>
-        <p>İsim: [Çağlar Dalkılınç]</p>
-        <p>IBAN: Henüz tanımlanmadı</p>
+        <h3>🚀 Güncel Görevler</h3>
+        <div class="task-list">
+            <div class="task-item"><span>Instagram Takip</span> <span>+0.50 TL</span></div>
+            <div class="task-item"><span>Video İzle</span> <span>+0.20 TL</span></div>
+        </div>
+        <a href="https://wa.me/905XXXXXXXXXX?text=Merhaba, görev tamamladım." class="btn-wa">WhatsApp Destek & Kanıt</a>
     </div>
-
-    <script>
-        function sendProof() {
-            window.location.href = "https://wa.me/905XXXXXXXXXX?text=Merhaba, sosyal medya görevini tamamladım, kanıt gönderiyorum.";
-        }
-    </script>
 </body>
 </html>
